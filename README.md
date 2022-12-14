@@ -1,2 +1,6 @@
-### Hi there 👋
-I'm tesla, teen developer from Poland. Look at my repo's if you dont mind :)
+### Hi there :wave:
+
+###### Teen developer from Poland
+
+- :rocket: Fluent in `EDK2` `Virtualization` `Nintendo Switch reverse engineering` `.cpp` `.class (Java)` `.css` `.html` `.js`
+- :earth_asia: Find me: tesla#1044
